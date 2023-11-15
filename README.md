@@ -8,7 +8,7 @@
  
  • 🌱 I’m currently learning Data Structures and Algorithms (C++) and Windows Presentation Foundation (WPF)/C#. 
 
- • 👩‍💻 I aspire to pursue a career as a Software Engineer, with a keen interest in exploring opportunities in the field of Artificial Intelligence.
+ • 👩‍💻 I aspire to pursue a career as a Software Engineer, with an interest in exploring opportunities in the field of Artificial Intelligence.
 
  • 📧 How to reach me: mehaklohchan@gmail.com
 
