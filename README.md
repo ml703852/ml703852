@@ -4,9 +4,9 @@
 <!-- About Section -->
 ### About Me
 
- • 🔭 I’m currently majoring in Computer Science at Riverside City College.
+ • 🔭 Computer Science student at Riverside City College.
  
- • 🌱 I’m currently learning Data Structures and Algorithms (C++) and Windows Presentation Foundation (WPF)/C#. 
+ • 🌱 Currently learning Data Structures and Algorithms (C++) and Windows Presentation Foundation (WPF)/C#. 
 
  • 👩‍💻 I aspire to pursue a career as a Software Engineer, with an interest in exploring opportunities in the field of Artificial Intelligence.
 
@@ -21,7 +21,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,js,java,figma,github,replit,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,java,figma,github,replit,vscode" />
   </a>
 </p>
 
