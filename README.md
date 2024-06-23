@@ -4,8 +4,6 @@
 
 - 🔭 Computer Science student
 - 🎓 B.S. in Computer Science '26
-- 🌱 
-- 💬 
 - 👩‍💻 I aspire to pursue a career as a Software Engineer, with an interest in exploring opportunities in the field of Artificial Intelligence
 
 
