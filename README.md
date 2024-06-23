@@ -9,7 +9,7 @@
 
 ### Languages and Technologies
 - Languages: C/C++, Python, Java
-- Technologies: Visual Studio, Apache Netbeans, 
+- Technologies: Visual Studio, Apache Netbeans
 
 ### Connect with me! 
 
