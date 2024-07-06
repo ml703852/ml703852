@@ -8,8 +8,8 @@
 
 
 ### Languages and Technologies
-- Languages: C/C++, Python, Java
-- Technologies: Visual Studio, Apache Netbeans
+- Languages: C/C++, Python
+- Technologies: Visual Studio, Apache Netbeans, XCode
 
 ### Connect with me! 
 
